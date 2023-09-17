@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "LockScreenSample",
+    "slug": "LockScreenSample",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "LockScreenSample"
+}
